@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/online-classic-board-games-platform-212216-212232/game_frontend"
+}
